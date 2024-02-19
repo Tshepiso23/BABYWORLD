@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-  <title>TS CONSTRUCTION</title>
+  <h1>TS CONSTRUCTION</h1>
 <meta charset="UTF-8">
 
     <head>
