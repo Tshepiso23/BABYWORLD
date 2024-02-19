@@ -1,11 +1,11 @@
-<!DOCTYPE html>
++<!DOCTYPE html>
 <html>
-  <h1>TS CONSTRUCTION</h1>
+  <head>
+    <h1>TS CONSTRUCTION</h1>
 <meta charset="UTF-8">
-
 </head>
+  
     <body>
-<p1></p1>
-
+<p1>TS CONSTRUCTION IS A FAMILY OWNED CONSTRUCTION FIRM WITH OVER 20 YEARS IN BUILDING CONSTRUCTION.WE OFFER QUALITY, RELIABILITY AND ACCOUNTABILITY</p1>
 </body>
-</html>
+
